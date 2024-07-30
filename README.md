@@ -2,6 +2,12 @@
 
 ###
 
+###
+
+<p align="left">I am a passionate Frontend Software Engineer with a strong focus on creating clean, scalable, and maintainable code.  I collaborate closely with UX designers to implement valuable solutions that enhance the user experience.<br><br>Collaborate with cross-functional teams, including UX designers, backend developers, and product managers, to deliver exceptional results.<br><br>As a lifelong learner, I stay updated with the latest frontend technologies, trends, and best practices to continuously enhance my skills.</p>
+
+###
+
 🔭 I’m currently working in 100Ladrillos
 
 🌱 I’m currently learning NODE, UX/UI, TS
